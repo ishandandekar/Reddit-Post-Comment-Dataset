@@ -1,6 +1,6 @@
 # Reddit_Post_Comment_Dataset
 
-> Note: As an example of the data to be publishes check the [data](data/) directory.
+> Note : As an example of the data to be publishes check the [data](data/) directory.
 
 ## Contribution
 
