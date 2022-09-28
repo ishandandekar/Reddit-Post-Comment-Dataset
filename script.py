@@ -13,7 +13,7 @@ reddit_client = praw.Reddit(
 
 # Writing .txt files
 subreddits = ['confessions', 'tifu', 'talesfromtechsupport',
-              'IDontWorkHereLady', 'LetsNotMeet']
+              'IDontWorkHereLady', 'LetsNotMeet', 'AskReddit']
 
 # Setting up multiple loops for automation
 for subreddit in subreddits:
