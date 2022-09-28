@@ -39,5 +39,6 @@ Although this is not a conventional open-source project, if you find any errors 
 #### TODO:
 
 - [ ] Find 10 more subreddits with populated text posts
+- [ ] Change limit 1->15.
 - [ ] Document the project for contributions and reproducibility
 - [ ] Publish dataset to kaggle
