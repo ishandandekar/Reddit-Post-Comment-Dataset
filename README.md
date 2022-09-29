@@ -24,17 +24,19 @@ The dataset comprises of top posts from subreddits and comments (related to that
 **Tasks that can be done on the dataset :**
 
 - _Text classification_: The dataset can be modified to predict whether a post belongs to a subreddit or not.
-- _Sentiment Analysis_: The comments (as well as the posts) can be analyses whether they show a positive, neutral or negative sentiment.
+- _Sentiment Analysis_: The comments (as well as the posts) can be analyzed whether they show a positive, neutral or negative sentiment.
 
 **Resources that were used for getting the data :**
 
 - [Source code](https://github.com/ishandandekar/Reddit_Post_Comment_Dataset)
-- PRAW (python reddit API wrapper)
+- [PRAW (python reddit API wrapper)](https://github.com/praw-dev/praw)
 - [Python Engineer's tutorial](https://www.youtube.com/watch?v=8VZhog5C3bU&ab_channel=PythonEngineer)
 
 ## Contribution
 
-Although this is not a conventional open-source project, if you find any errors (even a typo!) and/or want to improve something in the repository, and/or want to help document the project, feel free to create a pull request! 😄
+Although this is not a conventional open-source project, if you find any errors (even a typo!) and/or want to improve something in the repository, and/or want to help document the project, feel free to create a pull request! 😄  
+If you are using the script for creating your own dataset, here's a tidbit:  
+-> The `submission` has an attribute `selftext`, which can be used to get the body of the post (i.e. whatever the author wrote). Check the PRAW documentation to know more.
 
 #### TODO:
 
