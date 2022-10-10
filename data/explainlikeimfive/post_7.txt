@@ -1,0 +1,19 @@
+# r/explainlikeimfive
+## ELI5 Why is 12 hour time even taught? Wouldn’t it just be easier to remember 13:00 instead of 1:00pm?
+#### b''
+
+###### b'Hi Everyone,\n\nI\'m locking this post, I understand that this is pretty much always an unpopular decision. This question, which is fundamentally \'why is the 12 hour time system used, and how does it compare to 24 hour systems", has drawn an enormous number of rule breaking responses in addition to a few well thought out and well phrased ones.\n\nParticularly we don\'t allow opinion based answers (rule 5) and anecdotal answers (rule 3), so any top level comment either (solely) sharing an opinion on the systems, or sharing an anecdote of how x country, or your experience with y system made you feel unfortunately needs to be removed.\n\nRather than continuously remove 95% of the comments as per the rules I\'m opting to lock the post so that you can still see the answers and gain the knowledge, but won\'t break the rules yourself sharing your experience (we know we are strict).\n\nThank you for your understanding, and I hope you still get a good dose of education from the discussion remaining.'
+###### b'12 hour time is a *very* ancient system that traces back to the Mesopotamian empires.\n\nThey had a cultural fixation on the number 12, used a base-12 numerical system, and divided up most things into 12ths whenever possible - including day and night.\n\nThe 12 hours of day and 12 hours of night system spread throughout Europe and the Middle East and has defied multiple attempts to change it over the centuries.'
+###### b"Dividing the 24-hour clock into two periods came about because of sundials. For a couple thousand years, sundials were the main method of timekeeping, so you could only keep accurate time during half the day. The changeover happened at noon (at the sun's highest point) because it's an observable, universal frame of reference.\n\nMechanical clocks kept the division because it's simpler to make a 12-hour clock than a 24-hour one. Obviously the system is obsolete in the age of electronic timekeeping, but it's still a well-established system that most people are familiar with."
+###### b'[removed]'
+###### b'[removed]'
+###### b"Clocks, for about 600 years, were principally mechanical and had what amounts to an analog display: a circular dial.\n\nMaking clocks which cycled through in twelve hours was easier, the twelve-hour dial was easier to read, and everyone *knew* whether it was morning or night so there was really no difficulty with them.\n\nThere were, from time to time, other sorts of clocks built: some which had 24-hour dials, some of which showed weekdays, some of which ran counterclockwise.  But most clocks worked the same way.\n\nNow that it is cheaper - at least in the sorts of quantities we produce - to make electronic clocks with character-based displays, the twelve-hour format may well die out.\n\nGive it another hundred years.  We'll see."
+###### b"Most of the world does use 24 hour time (at least when writing down times). 12 hour time has some advantages (quicker to say, can be more easily shown on an analog clock face), but it's probably mostly historic reasons, just like how the US still uses imperial units."
+###### b'[removed]'
+###### b'[removed]'
+###### b'Analogue clocks only have 12 hours on them in most circumstances, and teaching them is a good way to introduce the concept of dividing hours into 60 minutes.'
+###### b'[removed]'
+###### b'[removed]'
+###### b'[removed]'
+###### b'[removed]'
+###### b'[removed]'

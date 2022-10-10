@@ -1,0 +1,19 @@
+# r/UnethicalLifeProTips
+## ULPT: If a computer illiterate relative/friend asks you to fix their slow computer, boost their cursor speed by a notch or two. They’ll instantly notice a difference and thank you!
+#### b'Edit: Thanks for all the love! By far my most upvoted post! Credit to u/mattswinn for giving me the idea to post this!'
+
+###### b'I actually did that yesterday, haha! According to the person his iMac was slow, but when I checked everything seemed fine. I noticed the cursor was moving a bit slow, so I decided to speed it up a bit and told him the issue is now resolved.'
+###### b'Same for Android, if someone is complaining their phone is too slow, change animation speeds from developer settings \n\nEdit: wow my first gold, thanks! '
+###### b'Once got a complaint that this app was loading too slowly.\n\nI changed the load status percentage to show doubles instead of ints (45.32% rather than 45%) and was complimented on the quick turnaround and efficiency'
+###### b'LPT : Never do this. Tomorrow you will get a call to fix something else and you will become their goto tech guy.'
+###### b'[deleted]'
+###### b'Reminds me of that guy adding sleep(1) to every function, so he could remove it in next releases so the new version would be faster. '
+###### b'ULPT: If someone complains about a slow PC, offer to fix it. \n\nDo nothing. \n\nPlacebo effect. '
+###### b'Just download more ram. '
+###### b"That's too unethical for me. I'd rather drug them so they think slower and it feels like everything is going faster for them."
+###### b'90% of the "why is my computer so slow" calls that I get are because Windows 10 is doing something in the background - Defender scan, Update, .NET optimization, Office doing who the hell knows, etc.\n\nAnd for some reason Microsoft doesn\'t think you should know those things are going on in the background, so it just grinds your 3 year old laptop to a halt.  '
+###### b'2 things you can do to actually fix their pc:\n\n* Set up a user account and admin account. Explain how to always use the user account, but use the admin password to install things. This will stop a huge amount of malware.\n* Install a free antivirus and explain that they can refuse the paid version forever, and to never buy into it.'
+###### b'an actual ULPT that\xe2\x80\x99s useful, haven\xe2\x80\x99t seen that in a while'
+###### b"Windows way too fucking slow opening a folder? Change the folder settings for the entire directory to not attempt guessing folder contents. Kill indexing.\n\nEven on the fastest computers, this bullshit still slows Windows down. And for what? Having picture folders automatically do large thumbnails? Have a quicker search function that nobody uses anyway, and isn't even necessary with SSDs?\n\nRequires no know-how more in-depth than adjusting mouse settings, either. No terminal or registry changes or anything."
+###### b"Everything was fine until you cleaned out my computer, now I can't click on anything because the mouse is too fast.\n*Opens 100 porn tabs*\n\n....\nThanks Dad"
+###### b'or you can turn it down a notch if you don\'t want to be bothered with providing more "free tech support".'

@@ -1,0 +1,19 @@
+# r/UnethicalLifeProTips
+## ULPT: if you’re stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended”
+#### b''
+
+###### b'You can also leave your phone on airplane mode so no one can ever call you'
+###### b'Genius'
+###### b'Not a bad idea, but usually people will call again after a dropped call'
+###### b'Called my iPhone 8 with my S8, "cannot enable airplane mode during a call". Called my s8 with my iPhone, "call ended".\n\n*edit: Both phones on Verizon in the US.*\n\n\n\n*edit#2: Accidentally left my work phone on airplane mode all day. Didn\'t have to hang up on anyone. It was nice.*\n\nOP is a phony.'
+###### b'Doesn\'t work. If the call drops, they try to call again and my carrier has programmed to say "the number you\'re trying to reach is switched off" when I put it in airplane mode.'
+###### b'You can do the same on your PC if you\'re voice calling or video calling over the internet. Might come in handy now we\'re all working from home ;) \n\n`windows key + r`\n\n`type in "cmd" and hit enter`\n\n`enter ipconfig release`\n\n`wait for the calling software to stop trying to reconnect, then close it or log out.` \n\n`enter ipconfig renew`\n\nIt will look like you disconnected due to connection problems.'
+###### b"Just put your phone in the microwave and run it.  Your phone will eventually lose the call.\n\n\n( I was being sarcastic, but on second thought, the microwave might be enough of a Faraday cage that the phone kisses the connection without you nuking it.    Just remember to not run the microwave by muscle memory. )\n\nEdit: *kisses* was supposed to be *loses*, but I'm leaving it"
+###### b'I don\'t really mind if they see "call ended"...\n\nIf it\'s really with someone who annoys me, like telemarketers, I actually like that they see I hung up.'
+###### b'I\xe2\x80\x99m typically a very innovative social liar, as I hate talking to friends and family members outside of in person gatherings, but I never thought of this. Ingenious...'
+###### b'Tried it on 3 android phones, "call ended" came up on 2 and the third phone won\'t let you select airplane mode during a call. Shame, it would have been a great trick for work calls.'
+###### b"Best tip I've seen on here \xf0\x9f\x98\x8b\nNow I know how to get out of awkward phone calls from entitled mother lol"
+###### b'Can\xe2\x80\x99t wait to try this on grandma'
+###### b'[deleted]'
+###### b'or... grow half a testicle and say "bitch, I gotta go."'
+###### b'[deleted]'

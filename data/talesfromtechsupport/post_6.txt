@@ -1,0 +1,19 @@
+# r/talesfromtechsupport
+## I'm pretty sure I knocked a user out from nearly 300 miles away
+#### b"I work Helpdesk for a retail store chain in the UK. I had a call from a store about a till drawer that wasn't opening after a transaction.\n\n>me: Could you check that the till is plugged in to the back of the pc?\n\n>user: Sure, one second.. (I hear him rummaging under the desk)\n\n>user: yeah, It's plugged in\n\n*The POS software occasionally forgets which COM port to operate for the till drawer*\n\n>me: I'm just going to try to open the drawer manually. Can you stand back from the drawer so it doesn't hit you.\n\n>user: haha, sure!\n\n*I open up CMD and try to open the drawer*\n\n    echo a> COM1\n\n*... nothing*\n\n    echo a> COM2\n\n**UGHHHHH.. Thud**\n\n>me: Hello? I heard something, did the drawer open?\n\n>user: ...\n\n>me: Hello?\n\n*After around 20 seconds a woman picks up the phone laughing*\n>user2: *User* had to go to the bathroom to clean his nose, the till drawer hit him in face and bust his nose. We'll call you back later!\n\nWhenever I want to reach through the screen and smack a user, I'll always think back to this story and remember that it's possible."
+
+###### b'Well.. you did warn them.'
+###### b'[removed]'
+###### b'I have seen this list of things that if someone would invent one of them they could be a billionaire overnight.\n\nI am pretty sure that punching someone through the internet is on that list.\n\nThis is a pretty neat proof of concept. \n\nGood luck and God speed future billionaire!'
+###### b'Even if there were warning lights, large warning label and a warning siren, you know some users would just stand there like sheep from Dumbfound Island.\n\nHopefully pain is better teacher.'
+###### b'> Could you just look carefully through the till draw. Can you see a light?\n\n**Open draw** _Thwack_ \n\n> How about now?!'
+###### b"Sounds like you're working with the same software! https://www.reddit.com/r/talesfromtechsupport/comments/2mthej/over_standard_tcpip/"
+###### b'/me slaps user with a large cash drawer'
+###### b'You actually did it! You punched someone in the face over TCP/IP!'
+###### b'"User I need you to read me the serial number on the front of the drawer, It\'s fine print so it can be hard to find"\n\n\n"I\'m not seeing it"\n\n\nBAM'
+###### b'[removed]'
+###### b'Had there been any intent on your part, that would be BOfH-worthy.'
+###### b"Our drawers are linked in with the tills printer. Sometimes your finger slips across the printscreen key and you can't get in until it's literally printed the image out of the slip printer. Happened to me once and I looked at the printer after manually trying to open the til through the POS. When it finished printing it fired the drawer at my nuts, then opened again repeatedly. Turned out it had queued all the drawer open commands..."
+###### b'When someone is being a particular pain in the ass, just remember to tell them that you need them to try and see if anything is wedged in the cracks along the side of the drawer. Then proceed as above.'
+###### b'I bought something from the food tent at an auction, and as I handed her my $5, their power went down.  She panicked a bit because she couldn\'t give me my change.  I told her to just tip up the whole unit and find the plastic button on the bottom, in this area here near the back, and push it to one side or the other.  Till pops open... and lady looks at me with genuine fear, "How did you know how to open my cash register like that?!!?!??"  I swear she thought I was some kind of auction-robbing criminal mastermind.'
+###### b'You are now officially One Punch Man.'
