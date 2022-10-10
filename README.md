@@ -9,16 +9,18 @@ The dataset comprises of top posts from subreddits and comments (related to that
 # <id>
 ## <name of the subreddit>
 ### <title of the post>
-#### <post's url>
-##### <comment of the respective post>
+#### <post's text or content>
+##### <post's url>
+###### <comment of the respective post>
 .
 .
 .
 # <id>
 ## <name of the subreddit>
 ### <title of the post>
-#### <post's url>
-##### <comment of the respective post>
+#### <post's text or content>
+##### <post's url>
+###### <comment of the respective post>
 ```
 
 **Tasks that can be done on the dataset :**
@@ -34,13 +36,12 @@ The dataset comprises of top posts from subreddits and comments (related to that
 
 ## Contribution
 
-Although this is not a conventional open-source project, if you find any errors (even a typo!) and/or want to improve something in the repository, and/or want to help document the project, feel free to create a pull request! 😄  
-If you are using the script for creating your own dataset, here's a tidbit:  
--> The `submission` has an attribute `selftext`, which can be used to get the body of the post (i.e. whatever the author wrote). Check the PRAW documentation to know more.
+This project is still in its development phase.
+Although this is not a conventional open-source project, if you find any errors (even a typo!) and/or want to improve something in the repository, and/or want to help document the project, feel free to create a pull request! 😄
 
 #### TODO:
 
-- [ ] Find 10 more subreddits with populated text posts
-- [ ] Change limit 1->15.
+- [x] Find 10 more subreddits with populated text posts
+- [x] Change limit 1->15.
 - [ ] Document the project for contributions and reproducibility
 - [ ] Publish dataset to kaggle
