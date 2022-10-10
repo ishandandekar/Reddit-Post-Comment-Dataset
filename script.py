@@ -55,4 +55,3 @@ for subreddit in subreddits:
                 f.write(
                     f'###### {comment.body.encode("utf-8", errors="ignore")}\n')
         post_id += 1
-    break
