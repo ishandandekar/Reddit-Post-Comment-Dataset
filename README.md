@@ -3,24 +3,36 @@
 **About the dataset :**  
 The dataset comprises of top posts from subreddits and comments (related to that post) as a `.txt` file. The posts have been taken from various subreddits, such as, tifu, confessions, IDontWorkHereLady, etc.
 
+**Structure of data directory**
+
+```
+data/
+├─ AskReddit/
+├─ confessions/
+├─ explainlikeimfive/
+├─ FanTheories/
+├─ gonewildstories/
+├─ IAmA/
+├─ IDontWorkHereLady/
+├─ LetsNotMeet/
+├─ talesfromtechsupport/
+├─ tifu/
+├─ todayilearned/
+├─ UnethicalLifeProTips/
+
+```
+
 **Format of the `.txt` files**
 
 ```
-# <id>
-## <name of the subreddit>
-### <title of the post>
-#### <post's text or content>
-##### <post's url>
-###### <comment of the respective post>
+# r/<subreddit's name>
+## <Title of the post>
+### <body or content of the post>
+#### <comment>
 .
 .
 .
-# <id>
-## <name of the subreddit>
-### <title of the post>
-#### <post's text or content>
-##### <post's url>
-###### <comment of the respective post>
+#### <comment>
 ```
 
 **Tasks that can be done on the dataset :**
