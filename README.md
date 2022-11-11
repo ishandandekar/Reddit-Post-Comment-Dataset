@@ -50,10 +50,3 @@ data/
 
 This project is still in its development phase.
 Although this is not a conventional open-source project, if you find any errors (even a typo!) and/or want to improve something in the repository, and/or want to help document the project, feel free to create a pull request! 😄
-
-#### TODO:
-
-- [x] Find 10 more subreddits with populated text posts
-- [x] Change limit 1->15.
-- [ ] Document the project for contributions and reproducibility
-- [ ] Publish dataset to kaggle
